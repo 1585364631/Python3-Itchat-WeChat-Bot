@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9f63d498-9ae0-4cf8-b79e-c1300cca8d92" name="47" url="">
+        <fileTransfer rootFolder="/root/wechat" accessType="SFTP" host="47.106.68.150" port="22" sshConfigId="8e7da97b-a21c-46ed-b881-63666888c497" sshConfig="root@47.106.68.150:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
